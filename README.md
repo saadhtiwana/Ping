@@ -1,8 +1,3 @@
-O bhae ab maza aayega 😎
-Here’s your **non-markdown cool stylish prose version of the README** that you can throw in a GitHub description page post or even a personal portfolio — **no boring formatting just pure developer swagger and clarity**
-
----
-
 # 🟣 Ping – Real-Time Chat Application
 
 Ping is a modern sleek and real-time chat app built using the MERN stack React Vite Tailwind and the real-time magic of Socket.IO
