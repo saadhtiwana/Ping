@@ -14,7 +14,7 @@ Built using the modern MERN stack with real-time power from Socket.IO
     <td><strong>Signup Page</strong></td>
   </tr>
   <tr>
-    <td><img src="./chat-image.jpg" alt="Chat" width="100%"/></td>
+    <td><img src="./pingee.jpg" alt="Chat" width="100%"/></td>
     <td><img src="./login-image.jpg" alt="Login" width="100%"/></td>
     <td><img src="./signup-image.jpg" alt="Signup" width="100%"/></td>
   </tr>
